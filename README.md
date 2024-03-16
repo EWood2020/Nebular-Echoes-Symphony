@@ -13,4 +13,4 @@ To view "Nebular Echoes Symphony," simply clone this repository and open the HTM
 Feel free to fork this repository and contribute your own variations. Whether it's a tweak in the algorithm, a new color palette, or a completely new fractal formation, your creative input is welcome.
 
 ## Contact
-Should you have any questions, suggestions, or require assistance, please reach out through [enriquewori@gmail.comyour-email@example.com](mailto:enriquewori@gmail.com).
+Should you have any questions, or suggestions, or require assistance, please reach out through [enriquewori@gmail.com](mailto:enriquewori@gmail.com).
